@@ -1,6 +1,6 @@
 # simplified-dbms
 
-Database management system with SQL-like commands such as CREATE, SELECT, JOIN,etc.
+Database management system with SQL-like commands such as CREATE, SELECT, JOIN, etc.
 It can be used to store data using the following supported data types : integer, float and string.
 
 ### Purpose
